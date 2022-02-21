@@ -1,0 +1,3 @@
+"hashicorp/aws": "> 3.70.0"
+"hashicorp/null": "2.1.0"
+"jfrog/artifactory": "~> 2.6.17"
